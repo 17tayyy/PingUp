@@ -59,6 +59,7 @@ def host_discovery(target):
 def main():
     target_str = get_arguments()
     targets = parse_target(target_str)
+    print(colored(f"    [+] Scanning in {target_str} \n", 'yellow'))
 
     max_threads = 100
     with ThreadPoolExecutor(max_workers=max_threads) as executor:

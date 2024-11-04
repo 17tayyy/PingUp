@@ -1,6 +1,6 @@
 # PingUp
 
-![image](https://github.com/user-attachments/assets/89d1afaf-96bb-440a-90d2-5cb55dd75ba8)
+![image](https://github.com/user-attachments/assets/8937444b-1fea-4271-983a-522cd4863bc3)
 
 Fast Network Host Scanner made in python
 
